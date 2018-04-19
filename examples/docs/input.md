@@ -6,7 +6,6 @@
 
 :::demo
 ```html
-<TB-button>Default</TB-button>
-<TB-button type="disabled">disabled</TB-button>
+<TB-input/>
 ```
 :::
