@@ -55,7 +55,7 @@ th{
 | 参数       | 说明                                 | 类型      | 可选值       | 默认值   |
 |---------- |------------------------------------  |---------- |------------- |-------- |
 |type       |	类型                                 |	string   |	defualt/disabled           |	defualt       |
-|icon	      | 图表                                 |	string    |	—  |	— |
+|icon	      | 图标                                 |	string    |	—  |	— |
 |loading    |	加载中                            |	boolean    |	—             |	false      |
 |disabled   |	是否禁用                            |	boolean   |	—	            | false   |
 
